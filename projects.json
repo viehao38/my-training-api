@@ -1,38 +1,39 @@
 [
   {
     "id": 1,
+    "img": "/img/photos/sp1.jpg",
     "title": "Cras Fermentum Sem",
     "category": "Mobile Design",
-    "img": "/img/photos/sp1.jpg"
   },
   {
     "id": 2,
+    "img": "/img/photos/sp2.jpg",
     "title": "Venenatis Euismod Vehicula",
-    "category": "Web Design",
-    "img": "/img/photos/sp2.jpg"
+    "category": "Web Design"
   },
   {
     "id": 3,
+    "img": "/img/photos/sp3.jpg",
     "title": "Tortor Tellus Cursus",
-    "category": "Stationary",
-    "img": "/img/photos/sp3.jpg"
+    "category": "Stationary"
   },
   {
     "id": 4,
+    "img": "/img/photos/sp4.jpg",
     "title": "Ridiculus Sem Parturient",
-    "category": "Web Application",
-    "img": "/img/photos/sp4.jpg"
+    "category": "Web Application"
+
   },
   {
     "id": 5,
+    "img": "/img/photos/sp5.jpg",
     "title": "Cursus Sollicitudin Adipiscing",
-    "category": "Web Design",
-    "img": "/img/photos/sp5.jpg"
+    "category": "Web Design"
   },
   {
     "id": 6,
+    "img": "/img/photos/sp6.jpg",
     "title": "Fringilla Quam Vulputate",
-    "category": "Stationary",
-    "img": "/img/photos/sp6.jpg"
+    "category": "Stationary"
   }
 ]
