@@ -3,7 +3,7 @@
     "id": 1,
     "img": "/img/photos/sp1.jpg",
     "title": "Cras Fermentum Sem",
-    "category": "Mobile Design",
+    "category": "Mobile Design"
   },
   {
     "id": 2,
@@ -22,7 +22,6 @@
     "img": "/img/photos/sp4.jpg",
     "title": "Ridiculus Sem Parturient",
     "category": "Web Application"
-
   },
   {
     "id": 5,
