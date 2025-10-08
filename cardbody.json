@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Coriss Ambady",
+    "role": "Financial Analyst",
+    "description": "Fermentum massa justo sit amet risus morbi leo.",
+    "avatar": "/img/avatars/te1.jpg",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "dribbble": "#"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cory Zamora",
+    "role": "Marketing Specialist",
+    "description": "Fermentum massa justo sit amet risus morbi leo.",
+    "avatar": "/img/avatars/te2.jpg",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "dribbble": "#"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nikolas Brooten",
+    "role": "Sales Manager",
+    "description": "Fermentum massa justo sit amet risus morbi leo.",
+    "avatar": "/img/avatars/te3.jpg",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "dribbble": "#"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jackie Sanders",
+    "role": "Investment Planner",
+    "description": "Fermentum massa justo sit amet risus morbi leo.",
+    "avatar": "/img/avatars/te4.jpg",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "dribbble": "#"
+    }
+  }
+]
